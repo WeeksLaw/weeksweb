@@ -10,7 +10,7 @@ let saveFile = () => {
         'Email: ' + email.value + '\r\n ' + 
         'Comment: ' + comment.value;
           
-    const textToBLOB = new Blob([data], { type: 'text/pain' });
+    const textToBLOB = new Blob([data], { type: 'text/plain' });
     const sFileName = 'formData.txt';
           
     let newLink = document.createElement("a");
