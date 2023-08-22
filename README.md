@@ -1,2 +1,2 @@
 # weeksweb
-This is a project to practice HTML and CSS using the NetBeans IDE.
+This is a project to practice HTML, CSS, and JavaScript using the NetBeans IDE.
